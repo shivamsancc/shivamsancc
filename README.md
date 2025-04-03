@@ -17,31 +17,38 @@
 
 ### ☁️ **Cloud & On-Prem Infrastructure**  
 ✅ **AWS & GCP** – EC2, VPC, CloudFront, Route53, S3, IAM  
-✅ **On-Prem** – VMware, Proxmox  
-✅ **Multi-Region HA** – **BGP-based failover** for seamless continuity  
+✅ **On-Prem** – VMware, Proxmox, **TrueNAS for storage**  
+✅ **Multi-Region HA** – **BGP-based failover**, **PowerDNS** for scalable DNS  
 
 ### 🔧 **DevOps & Automation**  
 ✅ **CI/CD** – Jenkins (CI), ArgoCD (GitOps for Kubernetes)  
 ✅ **Infrastructure as Code (IaC)** – Ansible, Terraform (selective usage)  
 ✅ **Containers & Kubernetes** – Production-grade **Docker & K8s**  
 
-### 🔒 **Security & Networking**  
+### 🛰️ **Networking & Security**  
 ✅ **Reverse Proxy & Load Balancing** – HAProxy, Nginx  
 ✅ **Firewalls & WAF** – Cloudflare WAF, pfSense, Sophos  
 ✅ **VPN & Secure Access** – WireGuard, Site-to-Site VPNs  
+✅ **Networking Tools** – **NetBox (networking IPAM), Nmap, Sngrep, Traceroute, Service Desk Plus**  
+✅ **DNS Management** – Cloudflare, Route53, PowerDNS  
 
-### 📊 **Observability & Monitoring**  
-✅ **Zabbix, Prometheus, Grafana** – Proactive monitoring  
-✅ **Log Aggregation** – ELK, Datadog  
-✅ **ClickHouse** – Learning for **high-speed log processing**  
+### 📡 **Telecom & VoIP**  
+✅ **SIP & VoIP** – **FreeSWITCH, Drachtio**  
+✅ **Call Tracing & Monitoring** – **Sngrep**  
 
 ### 💾 **Data Engineering & Storage**  
+✅ **Object Storage** – **MinIO (S3-compatible)**, ZFS  
 ✅ **Databases (Primary)** – PostgreSQL, MySQL (**HA, replication, DR**)  
 ✅ **Intermediate** – MongoDB, Redis  
 
-### 🖥️ **Development & Scripting**  
-✅ **Backend** – Laravel, Node.js, REST APIs  
-✅ **Automation** – Bash, Shell scripting  
+### 🖥️ **OS & Server Management**  
+✅ **Linux Expertise** – Ubuntu (Managed **300+ servers** efficiently)  
+✅ **Windows Server** – **Active Directory, RDP**  
+✅ **IPMI & Remote Management** – **Dell iDRAC, HPE iLO, ASRock IPMI**  
+✅ **Certbot & SSL** – Automated TLS/SSL renewal  
+
+### 🌍 **Website & App Hosting**  
+✅ **Web Hosting** – **WordPress (optimized & secured hosting)**  
 
 ---
 
